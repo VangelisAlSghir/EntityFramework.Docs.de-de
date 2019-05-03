@@ -60,7 +60,7 @@ Definieren Sie einen Kontext und Entitätsklassen für Ihr Modell.
 
   [!code-csharp[Main](../../../../samples/core/GetStarted/NetCore/ConsoleApp.SQLite/Model.cs)]
 
-Tipp: In einer echten Anwendung platzieren Sie jede Anwendung in einer separaten Datei und fügen die Verbindungszeichenfolge in eine Konfigurationsdatei oder Umgebungsvariable ein. Der Einfachheit halber sind in diesem Tutorial alle Elemente in einer Datei enthalten.
+Tipp: In einer echten Anwendung platzieren Sie jede Klasse in einer separaten Datei und fügen die Verbindungszeichenfolge in eine Konfigurationsdatei oder Umgebungsvariable ein. Der Einfachheit halber sind in diesem Tutorial alle Elemente in einer Datei enthalten.
 
 ## <a name="create-the-database"></a>Erstellen der Datenbank
 
